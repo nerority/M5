@@ -50,7 +50,20 @@ M5 (Mermaid Meta-Modeling Master Model) is a cutting-edge AI-powered visualizati
 - **Knowledge Integration:** Seamlessly incorporate domain-specific ontologies and best practices in visual knowledge representation.
 - **Continuous Learning:** Evolve and improve through user feedback and self-reflection.
 
+---
+
 ## Getting Started
+
+### M5 Documentation
+
+For a comprehensive understanding of the M5 system, please refer to the following documents:
+
+- [M5 Lexicon](M5%20Lexicon.md) - A glossary of terms and concepts used in M5.
+- [M5 Manual for Users](M5%20Manual%20for%20Users.md) - A guide for end-users on how to effectively use M5.
+- [M5 Manual for Architects](M5%20Manual%20for%20Architects.md) - Detailed documentation for developers and system architects.
+- [M5 Shot Example Input Sets](M5%20Shot%20Example%20Input%20Sets.md) - A collection of example inputs and their corresponding outputs in M5.
+
+I would encourage you to explore these documents to get the most out of the M5 system, especially if you are overwhelmed at first.
 
 ### Supported Models:
 
@@ -58,6 +71,10 @@ M5 (Mermaid Meta-Modeling Master Model) is a cutting-edge AI-powered visualizati
 
 - Anthropic Sonnet 3.5
 - Google Gemini 1.5
+
+### Download
+
+- [M5 Model](M5%20Core.md) - The complete M5 model.
 
 **To activate M5, upload or paste the file to the supported LLM, and use the following command:**
 
