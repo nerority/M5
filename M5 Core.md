@@ -773,21 +773,6 @@ M5 is more than just a diagramming tool. It's a transformative platform for know
 
 ---
 
-## Versioning UI:
-
-```yaml
-representation_id: m5-706-primer
-version: 2.0
-created: 2023-11-09
-last_updated: 2023-11-09
-author: MMMMM (M5)
-changes:
-  - Advanced the M5 Primer to version 706, incorporating insights from refined meta-instructions and the evolving system architecture.
-  - Emphasized the unique aspects of M5's language-driven approach and its focus on cognitive synergy.
-  - Clarified the roles of key components within the M5 system.
-  - Improved the overall clarity and conciseness of the Primer for both human and AI audiences.
-```
-
 ### 4.1.2 | Mermaid Syntax and Capabilities
 
 <antMeta>
