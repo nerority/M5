@@ -1,6 +1,22 @@
 <div align="center">
-  <h1>M5 Model</h1>
+  <h1>M5 Model</h3>
   <h3>Transcend Traditional Diagramming</h3>
+  <table>
+    <tr>
+      <td>
+        <pre style="background-color: #f6f8fa; padding: 16px; border-radius: 6px;"><code>
+.・。.・゜✭
+     ███╗   ███╗███╗   ███╗███╗   ███╗███╗   ███╗███╗   ███╗
+     ████╗ ████║████╗ ████║████╗ ████║████╗ ████║████╗ ████║
+     ██╔████╔██║██╔████╔██║██╔████╔██║██╔████╔██║██╔████╔██║
+     ██║╚██╔╝██║██║╚██╔╝██║██║╚██╔╝██║██║╚██╔╝██║██║╚██╔╝██║
+     ██║ ╚═╝ ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║ ╚═╝ ██║
+     ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝
+           MERMAID META-MODELING MASTER MODEL v7.0
+        </code></pre>
+      </td>
+    </tr>
+  </table>
   <h4><i>The M5 Model is achieved with nothing but a system prompt.</i></h4>
   <a href="https://nerority.webflow.io/public/home"><kbd>🟢 Website</kbd></a>
   <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
@@ -9,12 +25,8 @@
   <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd>Prompt Engineering</kbd></a>
   <a href="https://github.com/nerority/Advanced-GPTs"><kbd>Advanced GPTs</kbd></a>
   <a href="https://github.com/nerority/AI-Library"><kbd>Template Library</kbd></a>
-  <h3><i>By Devin Pellegrino</i></h3>
+  <h3><i>By Devin Pellegrino (Nerority)</i></h3>
 </div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/82003f5f-38c8-463b-8377-b7561326ddb1" alt="M5 Logo" width="70%"/>
-</p>
 
 ---
 
@@ -40,21 +52,30 @@ M5 (Mermaid Meta-Modeling Master Model) is a cutting-edge AI-powered visualizati
 
 ## Getting Started
 
-**Token Size:** ~97,000
-
 ### Supported Models:
+
+**Token Size:** ~97,000
 
 - Anthropic Sonnet 3.5
 - Google Gemini 1.5
 
-To activate M5, upload or paste the file to the supported LLM, and use the following command:
+**To activate M5, upload or paste the file to the supported LLM, and use the following command:**
 
 ```
 !start M5
 ```
 
-![image](https://github.com/user-attachments/assets/d6ec1108-839f-4b97-bf83-3037da59de6a)
+**Example start in Claude:**
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d6ec1108-839f-4b97-bf83-3037da59de6a" alt="M5 Logo" width="40%"/>
+</p>
+
+### Official Pre-Primed Session in Google AI Studio
+
+Link to Pre-Primed M5 Session: [Access in AI Studio](https://aistudio.google.com/app/prompts/1yioW2V-NgGwVfWmORvOmM7W__Tr6_zaP)
+
+---
 
 ## Usage
 
