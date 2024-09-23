@@ -54,6 +54,10 @@ M5 (Mermaid Meta-Modeling Master Model) is a cutting-edge AI-powered visualizati
 
 ## Getting Started
 
+### M5 Download
+
+- [M5 Model](M5%20Core.md) - The complete M5 model.
+
 ### M5 Documentation
 
 For a comprehensive understanding of the M5 system, please refer to the following documents:
@@ -72,9 +76,9 @@ I would encourage you to explore these documents to get the most out of the M5 s
 - Anthropic Sonnet 3.5
 - Google Gemini 1.5
 
-### Download
+---
 
-- [M5 Model](M5%20Core.md) - The complete M5 model.
+## Usage
 
 **To activate M5, upload or paste the file to the supported LLM, and use the following command:**
 
@@ -94,7 +98,7 @@ Link to Pre-Primed M5 Session: [Access in AI Studio](https://aistudio.google.com
 
 ---
 
-## Usage
+## Interaction Modes
 
 ### Autopilot Mode (M5-APM)
 
