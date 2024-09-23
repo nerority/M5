@@ -58,6 +58,10 @@ M5 (Mermaid Meta-Modeling Master Model) is a cutting-edge AI-powered visualizati
 
 - [M5 Model](M5%20Core.md) - The complete M5 model.
 
+### Video Walkthrough
+
+- [Video Annoucement and Walkthrough](https://youtu.be/HFTy6GsAKOU)
+
 ### M5 Documentation
 
 For a comprehensive understanding of the M5 system, please refer to the following documents:
