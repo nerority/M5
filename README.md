@@ -19,7 +19,7 @@
   </table>
   <h4><i>The M5 Model is achieved with nothing but a system prompt.</i></h4>
   <a href="https://nerority.webflow.io/public/home"><kbd>🟢 Website</kbd></a>
-  <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
+  <a href="https://discord.gg/PbEuXjB6pN"><kbd> ⚪ Discord </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
   <br>
   <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd>Prompt Engineering</kbd></a>
