@@ -136,7 +136,7 @@ Permission is hereby granted, free of charge, to any individual for personal, no
 
 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-2. You may not use the Software for any commercial or business purposes without explicit written permission from Devin Pellegrino. For business use inquiries, please contact at devin@nerority.com.
+2. You may not use the Software for any commercial or business purposes without explicit written permission from Devin Pellegrino. For business use inquiries, please contact at devinpellegrino@gmail.com.
 
 3. You may not distribute, sublicense, or sell copies of the Software without explicit written permission from Devin Pellegrino.
 
