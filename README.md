@@ -30,6 +30,8 @@
 
 ---
 
+**Update from Devin: Please use Claude since 3.7 for the best performance by far**
+
 ## Introduction
 
 ### What is M5?
@@ -80,6 +82,8 @@ I would encourage you to explore these documents to get the most out of the M5 s
 - Anthropic Sonnet 3.5
 - Google Gemini 1.5
 
+**Update: Please use Claude since 3.7 for the best performance by far**
+
 ---
 
 ## Usage
@@ -95,10 +99,6 @@ I would encourage you to explore these documents to get the most out of the M5 s
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d6ec1108-839f-4b97-bf83-3037da59de6a" alt="M5 Logo" width="40%"/>
 </p>
-
-### Official Pre-Primed Session in Google AI Studio
-
-Link to Pre-Primed M5 Session: [Access in AI Studio](https://aistudio.google.com/app/prompts/1yioW2V-NgGwVfWmORvOmM7W__Tr6_zaP)
 
 ---
 
