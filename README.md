@@ -30,7 +30,7 @@
 
 ---
 
-**Update from Devin: Please use Claude since 3.7 for the best performance by far**
+**Update: Please use Claude 3.7 for the best performance by far**
 
 ## Introduction
 
