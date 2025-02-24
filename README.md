@@ -151,11 +151,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contact
 
 - **Creator:** Devin Pellegrino (Nerority)
-- **Email:** devin@nerority.com
+- **Email:** devinpellegrino@gmail.com
 - **Website:** [Nerority Insiders](https://nerority.webflow.io/public/home)
 
 ---
 
-<p align="center">
+<div align="center">
   <i>Unleash the power of hyperspace visualization with M5!</i>
-</p>
+  <h2>Contact or Involvement</h2>
+  <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
+  <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
+  <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
+  <a href="https://discord.gg/PbEuXjB6pN"><kbd> ⚪ Discord </kbd></a>
+  <br>
+  <a href="https://github.com/nerority/M5"><kbd>M5 Model</kbd></a>
+  <a href="https://github.com/nerority/Advanced-GPTs"><kbd>Advanced GPTs</kbd></a>
+  <a href="https://github.com/nerority/AI-Library"><kbd>Template Library</kbd></a>
+  <h3><i>By Devin Pellegrino @ 2024</i></h3>
+</div>
